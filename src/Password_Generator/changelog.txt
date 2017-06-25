@@ -1,0 +1,21 @@
+This will hold the details of every update (including date) and what it adds/fixes as well as planned future updates
+
+Planned Updates:
+Allow for command line arguments to be used to set min and max values [1]
+Create a graphical interface for password generator [0]
+Allow for a custom list of allowed characters [0]
+Password patchers that will take older passwords and make them more secure (though not as secure as a purely random password) [0]
+password base <leave blank for random> [0]
+Security setting to change how secure you want your password to be. [0]
+Brute force estimation time (maybe) [0]
+
+Update history:
+
+V1.0.1 updated on June 24th, 2017
+Added basic command line interactions
+Added verbose mode
+Added the ability for one to change password length options
+
+V1.0 updated on June 24th, 2017
+Update added:
+Basic random password generator that would generate a password between 2 predetermined points.
