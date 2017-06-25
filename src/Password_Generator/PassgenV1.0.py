@@ -1,3 +1,6 @@
+# Password Generator V1.0
+# Made By Kryzsec
+
 from random import randint
 _MIN_ = 8
 _MAX_ = 32
