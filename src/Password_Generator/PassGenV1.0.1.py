@@ -1,11 +1,5 @@
 # Password Generator V1.0
-# ToDo
-# >Add statements to allow us of symbols
-# >Add dictionary for word based passwords
-# >Add security options for password generation
-# >Add ability to set min and max as command line arguments
-# >Add a graphical interface
-#	This is free to use and to modify and release, just please give credit where credit is due...
+# Kryzsec Security Package
 
 from random import randint
 import sys
