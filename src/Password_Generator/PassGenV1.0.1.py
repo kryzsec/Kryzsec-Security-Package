@@ -1,4 +1,4 @@
-# Password Generator V1.0
+# Password Generator V1.0.1
 # Kryzsec Security Package
 
 from random import randint
